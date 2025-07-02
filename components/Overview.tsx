@@ -172,7 +172,7 @@ regex.test(malicious); // false (fast!)`}</code>
               />
             </div>
             <h4 className="font-semibold mb-2" data-oid="i9pjbxh">
-              O(n) Guaranteed
+              O(n+m) Guaranteed
             </h4>
             <p className="text-sm text-muted-foreground" data-oid="62ci64j">
               Linear time complexity for all operations, no matter how complex

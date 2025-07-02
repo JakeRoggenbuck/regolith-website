@@ -19,7 +19,7 @@ export function Features() {
       icon: Zap,
       title: "Linear Performance",
       description:
-        "Guaranteed O(n) worst-case time complexity. No more exponential blowups that can crash your application.",
+        "Guaranteed O(n+m) worst-case time complexity. No more exponential blowups that can crash your application.",
     },
     {
       icon: Code,
