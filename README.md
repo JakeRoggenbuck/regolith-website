@@ -75,8 +75,8 @@ The landing page includes the following sections:
 ## Contributing
 
 This is the landing page for the Regolith project. For contributing to the core Regolith library, visit:
-- [Regolith GitHub Repository](https://github.com/regolithjs/regolith)
-- [Contributing Guidelines](https://github.com/regolithjs/regolith/blob/main/CONTRIBUTING.md)
+- [Regolith GitHub Repository](https://github.com/jakeroggenbuck/regolith)
+- [Contributing Guidelines](https://github.com/jakeroggenbuck/regolith/blob/main/CONTRIBUTING.md)
 
 ## License
 

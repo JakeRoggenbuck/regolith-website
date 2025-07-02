@@ -106,7 +106,7 @@ export function Header() {
             </Button>
             <Button variant="outline" size="sm" asChild data-oid="0qj4gnb">
               <a
-                href="https://github.com/regolithjs/regolith"
+                href="https://github.com/jakeroggenbuck/regolith"
                 target="_blank"
                 rel="noopener noreferrer"
                 data-oid="uhxlot2"
@@ -191,7 +191,7 @@ export function Header() {
                 </Button>
                 <Button variant="outline" size="sm" asChild data-oid="r516f5h">
                   <a
-                    href="https://github.com/regolithjs/regolith"
+                    href="https://github.com/jakeroggenbuck/regolith"
                     target="_blank"
                     rel="noopener noreferrer"
                     data-oid="kbbv1:w"

@@ -47,7 +47,7 @@ export function Hero() {
             </Button>
             <Button variant="outline" size="lg" asChild data-oid="6q2no_:">
               <a
-                href="https://github.com/regolithjs/regolith"
+                href="https://github.com/jakeroggenbuck/regolith"
                 target="_blank"
                 rel="noopener noreferrer"
                 data-oid="u0mi243"

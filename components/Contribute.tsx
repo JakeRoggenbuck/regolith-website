@@ -23,7 +23,7 @@ export function Contribute() {
       title: "Code Contributions",
       description: "Help improve the core engine, add features, or fix bugs",
       action: "View Issues",
-      href: "https://github.com/regolithjs/regolith/issues",
+      href: "https://github.com/jakeroggenbuck/regolith/issues",
       badge: "Good First Issue",
     },
     {
@@ -31,7 +31,7 @@ export function Contribute() {
       title: "Report Bugs",
       description: "Found a bug? Help us improve by reporting it",
       action: "Report Bug",
-      href: "https://github.com/regolithjs/regolith/issues/new?template=bug_report.md",
+      href: "https://github.com/jakeroggenbuck/regolith/issues",
       badge: "Bug Report",
     },
     {
@@ -39,7 +39,7 @@ export function Contribute() {
       title: "Documentation",
       description: "Help improve our docs, examples, and tutorials",
       action: "Contribute Docs",
-      href: "https://github.com/regolithjs/regolith/tree/main/docs",
+      href: "https://github.com/jakeroggenbuck/regolith/tree/main/docs",
       badge: "Documentation",
     },
     {
@@ -47,7 +47,7 @@ export function Contribute() {
       title: "Community Support",
       description: "Help other users and share your knowledge",
       action: "Join Discussions",
-      href: "https://github.com/regolithjs/regolith/discussions",
+      href: "https://github.com/jakeroggenbuck/regolith/discussions",
       badge: "Community",
     },
   ];
@@ -156,7 +156,7 @@ export function Contribute() {
             >
               <Button size="lg" asChild data-oid="68tu9f4">
                 <a
-                  href="https://github.com/regolithjs/regolith"
+                  href="https://github.com/jakeroggenbuck/regolith"
                   target="_blank"
                   rel="noopener noreferrer"
                   data-oid="40.3ik4"
@@ -167,7 +167,7 @@ export function Contribute() {
               </Button>
               <Button variant="outline" size="lg" asChild data-oid="kw3v1e-">
                 <a
-                  href="https://github.com/regolithjs/regolith/blob/main/CONTRIBUTING.md"
+                  href="https://github.com/jakeroggenbuck/regolith/blob/main/CONTRIBUTING.md"
                   target="_blank"
                   rel="noopener noreferrer"
                   data-oid="1:6qo97"

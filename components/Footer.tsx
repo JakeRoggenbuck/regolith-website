@@ -67,7 +67,7 @@ export function Footer() {
               </li>
               <li data-oid="xh_mho9">
                 <a
-                  href="https://github.com/regolithjs/regolith/blob/main/docs"
+                  href="https://github.com/jakeroggenbuck/regolith/blob/main/docs"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-foreground transition-colors"
@@ -86,7 +86,7 @@ export function Footer() {
             <ul className="space-y-2 text-sm" data-oid="p-jychk">
               <li data-oid="qty_iik">
                 <a
-                  href="https://github.com/regolithjs/regolith/discussions"
+                  href="https://github.com/jakeroggenbuck/regolith/discussions"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-foreground transition-colors"
@@ -97,7 +97,7 @@ export function Footer() {
               </li>
               <li data-oid="4lbl:1w">
                 <a
-                  href="https://github.com/regolithjs/regolith/issues"
+                  href="https://github.com/jakeroggenbuck/regolith/issues"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-foreground transition-colors"
@@ -108,7 +108,7 @@ export function Footer() {
               </li>
               <li data-oid="twrwtnb">
                 <a
-                  href="https://github.com/regolithjs/regolith/blob/main/CONTRIBUTING.md"
+                  href="https://github.com/jakeroggenbuck/regolith/blob/main/CONTRIBUTING.md"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-foreground transition-colors"
@@ -119,7 +119,7 @@ export function Footer() {
               </li>
               <li data-oid="3juoevw">
                 <a
-                  href="https://github.com/regolithjs/regolith/blob/main/CODE_OF_CONDUCT.md"
+                  href="https://github.com/jakeroggenbuck/regolith/blob/main/CODE_OF_CONDUCT.md"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-foreground transition-colors"
@@ -137,7 +137,7 @@ export function Footer() {
             </h3>
             <div className="flex space-x-4" data-oid="x7q7giy">
               <a
-                href="https://github.com/regolithjs/regolith"
+                href="https://github.com/jakeroggenbuck/regolith"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
@@ -146,7 +146,7 @@ export function Footer() {
                 <Github className="h-5 w-5" data-oid="hkk88q5" />
               </a>
               <a
-                href="https://github.com/regolithjs/regolith/blob/main/docs"
+                href="https://github.com/jakeroggenbuck/regolith/blob/main/docs"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
@@ -155,7 +155,7 @@ export function Footer() {
                 <BookOpen className="h-5 w-5" data-oid="q1ngpr-" />
               </a>
               <a
-                href="https://github.com/regolithjs/regolith/discussions"
+                href="https://github.com/jakeroggenbuck/regolith/discussions"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
@@ -164,7 +164,7 @@ export function Footer() {
                 <MessageCircle className="h-5 w-5" data-oid="xcusgji" />
               </a>
               <a
-                href="https://github.com/regolithjs/regolith/issues"
+                href="https://github.com/jakeroggenbuck/regolith/issues"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
@@ -183,7 +183,7 @@ export function Footer() {
           <p data-oid="0jvccal">
             © 2024 Regolith. Open source under the{" "}
             <a
-              href="https://github.com/regolithjs/regolith/blob/main/LICENSE"
+              href="https://github.com/jakeroggenbuck/regolith/blob/main/LICENSE"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-foreground transition-colors"
