@@ -67,7 +67,7 @@ export function Footer() {
               </li>
               <li data-oid="xh_mho9">
                 <a
-                  href="https://github.com/jakeroggenbuck/regolith/blob/main/docs"
+                  href="https://github.com/jakeroggenbuck/regolith"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-foreground transition-colors"
@@ -146,7 +146,7 @@ export function Footer() {
                 <Github className="h-5 w-5" data-oid="hkk88q5" />
               </a>
               <a
-                href="https://github.com/jakeroggenbuck/regolith/blob/main/docs"
+                href="https://github.com/jakeroggenbuck/regolith"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
