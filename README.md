@@ -9,7 +9,7 @@ Regolith is a drop-in RegExp replacement that's immune to ReDoS (Regular Express
 ## Features
 
 - 🛡️ **ReDoS Protection** - Complete immunity to Regular Expression Denial of Service attacks
-- ⚡ **Linear Performance** - Guaranteed O(n) time complexity for all operations
+- ⚡ **Linear Performance** - Guaranteed O(n+m) time complexity for all operations
 - 🔄 **Drop-in Replacement** - Compatible API with JavaScript's native RegExp
 - 🦀 **Rust-Powered** - Built on Rust's memory-safe foundation with WebAssembly bindings
 - 📱 **Responsive Design** - Mobile-first, modern UI built with Tailwind CSS
