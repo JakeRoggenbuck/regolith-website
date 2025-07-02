@@ -39,7 +39,7 @@ export function Contribute() {
       title: "Documentation",
       description: "Help improve our docs, examples, and tutorials",
       action: "Contribute Docs",
-      href: "https://github.com/jakeroggenbuck/regolith/tree/main/docs",
+      href: "https://github.com/jakeroggenbuck/regolith",
       badge: "Documentation",
     },
     {
