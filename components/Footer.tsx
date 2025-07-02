@@ -181,7 +181,7 @@ export function Footer() {
           data-oid="53amal:"
         >
           <p data-oid="0jvccal">
-            © 2024 Regolith. Open source under the{" "}
+            © 2025 Regolith. Open source under the{" "}
             <a
               href="https://github.com/jakeroggenbuck/regolith/blob/main/LICENSE"
               target="_blank"
