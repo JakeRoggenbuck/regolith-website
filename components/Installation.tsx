@@ -18,16 +18,19 @@ export function Installation() {
 
   const quickStart = `import { Regolith } from '@regolithjs/regolith';
 
-// Create a new Regolith instance
-const regex = new Regolith('^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$');
+// Updated pattern: no anchors
+const regex = new Regolith(
+  '[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}',
+  'g'
+);
 
-// Test against input
+// Test a single email string
 const isValid = regex.test('user@example.com');
 console.log(isValid); // true
 
-// Find matches
-const matches = regex.exec('Contact us at support@regolith.dev');
-console.log(matches); // Match details`;
+// Find matches in a larger string
+const matches = regex.exec('Contact us at support@example.com');
+console.log(matches); // ['support@example.com']`;
 
   return (
     <section id="install" className="py-20" data-oid="x6:db4j">
