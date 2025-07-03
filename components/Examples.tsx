@@ -28,31 +28,6 @@ console.log(validateEmail('user@example.com')); // true
 console.log(validateEmail('invalid-email'));    // false`,
     },
     {
-      title: "URL Parsing",
-      description: "Extract URLs from text content",
-      language: "TypeScript",
-      code: `import { Regolith } from '@regolithjs/regolith';
-
-const urlRegex = new Regolith(
-  'https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?&//=]*)'
-);
-
-function extractUrls(text: string): string[] {
-  const matches: string[] = [];
-  let match;
-  
-  while ((match = urlRegex.exec(text)) !== null) {
-    matches.push(match[0]);
-  }
-  
-  return matches;
-}
-
-const text = "Visit https://regolith.dev and https://github.com/regolithjs";
-console.log(extractUrls(text));
-// ['https://regolith.dev', 'https://github.com/regolithjs']`,
-    },
-    {
       title: "Input Sanitization",
       description: "Safely validate user input patterns",
       language: "JavaScript",
