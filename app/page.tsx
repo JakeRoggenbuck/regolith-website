@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect } from "react";
 import { Header } from "@/components/Header";
 import { Hero } from "@/components/Hero";
 import { Overview } from "@/components/Overview";
@@ -10,18 +11,23 @@ import { Contribute } from "@/components/Contribute";
 import { Footer } from "@/components/Footer";
 
 export default function Page() {
+  // Set dark mode as default on page load
+  useEffect(() => {
+    document.documentElement.classList.add("dark");
+  }, []);
+
   return (
     <div className="min-h-screen bg-background" data-oid=":uc:u_6">
-      <Header data-oid="wfw56.9" />
-      <main data-oid="95yj4o1">
-        <Hero data-oid="5rwjvwq" />
-        <Overview data-oid="u8d0h-:" />
-        <Features data-oid="66gcmmz" />
-        <Installation data-oid="4.9-2yn" />
-        <Examples data-oid="b-o60_i" />
-        <Contribute data-oid=".tfl4pg" />
+      <Header data-oid="fvm33sm" />
+      <main data-oid="yke_u8n">
+        <Hero data-oid="q-2c_78" />
+        <Overview data-oid="zr65qmj" />
+        <Features data-oid="px8r9pj" />
+        <Installation data-oid="n339arz" />
+        <Examples data-oid=".7r3i44" />
+        <Contribute data-oid=":21-atf" />
       </main>
-      <Footer data-oid="cdxi44x" />
+      <Footer data-oid="3u0o9:z" />
     </div>
   );
 }
