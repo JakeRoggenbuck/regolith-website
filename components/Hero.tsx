@@ -4,24 +4,24 @@ import { Github, Download, BookOpen, Shield, Zap, Code } from "lucide-react";
 
 export function Hero() {
   return (
-    <section className="relative py-20 sm:py-32" data-oid="z9pe.2j">
+    <section className="relative py-20 sm:py-32" data-oid="ugmiq44">
       <div
         className="container mx-auto px-4 sm:px-6 lg:px-8"
-        data-oid="31g_ef1"
+        data-oid="4w:gbku"
       >
-        <div className="text-center" data-oid="h6cii28">
-          <Badge variant="secondary" className="mb-6" data-oid="wz98pop">
-            <Shield className="h-3 w-3 mr-1" data-oid="ll-iejt" />
+        <div className="text-center" data-oid="d5y9f9a">
+          <Badge variant="secondary" className="mb-6" data-oid="99xpl.q">
+            <Shield className="h-3 w-3 mr-1" data-oid="wnyc2j3" />
             ReDoS-Immune Regex Engine
           </Badge>
 
           <h1
             className="text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight mb-6"
-            data-oid="x8y8itf"
+            data-oid="raajv2j"
           >
             <span
               className="bg-gradient-to-r from-orange-500 to-red-600 bg-clip-text text-transparent"
-              data-oid="yh08ovq"
+              data-oid="_t:rimt"
             >
               Regolith
             </span>
@@ -29,7 +29,7 @@ export function Hero() {
 
           <p
             className="text-xl sm:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto"
-            data-oid="g-z8h2o"
+            data-oid="vt5.j-4"
           >
             A secure, Rust-backed regex engine for JavaScript and TypeScript.
             Drop-in RegExp replacement with linear worst-case performance.
@@ -37,28 +37,28 @@ export function Hero() {
 
           <div
             className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12"
-            data-oid="5j8m51i"
+            data-oid="vs33qp1"
           >
-            <Button size="lg" asChild data-oid="u6guz7.">
-              <a href="#install" data-oid="oh8jpyd">
-                <Download className="h-4 w-4 mr-2" data-oid=".7jsuc6" />
+            <Button size="lg" asChild data-oid="98ikjeb">
+              <a href="#install" data-oid="zs:qx5c">
+                <Download className="h-4 w-4 mr-2" data-oid="lcp2r-8" />
                 Get Started
               </a>
             </Button>
-            <Button variant="outline" size="lg" asChild data-oid="6q2no_:">
+            <Button variant="outline" size="lg" asChild data-oid="7ca270f">
               <a
                 href="https://github.com/jakeroggenbuck/regolith"
                 target="_blank"
                 rel="noopener noreferrer"
-                data-oid="u0mi243"
+                data-oid="meiri50"
               >
-                <Github className="h-4 w-4 mr-2" data-oid="oo-i.3q" />
+                <Github className="h-4 w-4 mr-2" data-oid="c3pyx8o" />
                 View on GitHub
               </a>
             </Button>
-            <Button variant="ghost" size="lg" asChild data-oid="gv4x-pg">
-              <a href="#examples" data-oid="oa7t29j">
-                <Code className="h-4 w-4 mr-2" data-oid="lg0awtn" />
+            <Button variant="ghost" size="lg" asChild data-oid="87ju4i9">
+              <a href="#examples" data-oid="bq1fkud">
+                <Code className="h-4 w-4 mr-2" data-oid="n:pc6vx" />
                 See Examples
               </a>
             </Button>
@@ -66,67 +66,67 @@ export function Hero() {
 
           <div
             className="grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-4xl mx-auto"
-            data-oid="a3l89p-"
+            data-oid="cn7at_v"
           >
             <div
               className="flex flex-col items-center text-center"
-              data-oid="t99pk1x"
+              data-oid="ub63:32"
             >
               <div
-                className="h-12 w-12 rounded-full bg-green-100 dark:bg-green-900 flex items-center justify-center mb-4"
-                data-oid="1wuih0f"
+                className="h-12 w-12 rounded-full bg-orange-100 dark:bg-orange-900/30 flex items-center justify-center mb-4"
+                data-oid="kyp3fze"
               >
                 <Shield
-                  className="h-6 w-6 text-green-600 dark:text-green-400"
-                  data-oid="_d.nqn_"
+                  className="h-6 w-6 text-orange-600 dark:text-orange-400"
+                  data-oid="tlj4h.q"
                 />
               </div>
-              <h3 className="font-semibold mb-2" data-oid="8tz_uch">
+              <h3 className="font-semibold mb-2" data-oid="1r3c7wg">
                 ReDoS Immune
               </h3>
-              <p className="text-sm text-muted-foreground" data-oid="x06c-21">
+              <p className="text-sm text-muted-foreground" data-oid="su:hrno">
                 Protected against Regular Expression Denial of Service attacks
               </p>
             </div>
 
             <div
               className="flex flex-col items-center text-center"
-              data-oid="k60qk-."
+              data-oid="3p-ly5v"
             >
               <div
-                className="h-12 w-12 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center mb-4"
-                data-oid="sxlt_kb"
+                className="h-12 w-12 rounded-full bg-red-100 dark:bg-red-900/30 flex items-center justify-center mb-4"
+                data-oid="s1xvo_b"
               >
                 <Zap
-                  className="h-6 w-6 text-blue-600 dark:text-blue-400"
-                  data-oid="-:n9yah"
+                  className="h-6 w-6 text-red-600 dark:text-red-400"
+                  data-oid="6b-5t-a"
                 />
               </div>
-              <h3 className="font-semibold mb-2" data-oid="oqt.gwl">
+              <h3 className="font-semibold mb-2" data-oid="k.:3ttr">
                 Linear Performance
               </h3>
-              <p className="text-sm text-muted-foreground" data-oid="9m-isoy">
+              <p className="text-sm text-muted-foreground" data-oid="ha8n6yu">
                 Guaranteed linear worst-case time complexity
               </p>
             </div>
 
             <div
               className="flex flex-col items-center text-center"
-              data-oid="g-20wpf"
+              data-oid="js7l5r4"
             >
               <div
-                className="h-12 w-12 rounded-full bg-purple-100 dark:bg-purple-900 flex items-center justify-center mb-4"
-                data-oid="yel5539"
+                className="h-12 w-12 rounded-full bg-yellow-100 dark:bg-yellow-900/30 flex items-center justify-center mb-4"
+                data-oid="b5htv--"
               >
                 <Code
-                  className="h-6 w-6 text-purple-600 dark:text-purple-400"
-                  data-oid="43ty94r"
+                  className="h-6 w-6 text-yellow-600 dark:text-yellow-400"
+                  data-oid="8pbzcjt"
                 />
               </div>
-              <h3 className="font-semibold mb-2" data-oid="6ac7r-c">
+              <h3 className="font-semibold mb-2" data-oid="2pjv:mv">
                 Drop-in Replacement
               </h3>
-              <p className="text-sm text-muted-foreground" data-oid="hl3__pk">
+              <p className="text-sm text-muted-foreground" data-oid="v9pohuq">
                 Compatible with existing RegExp usage patterns
               </p>
             </div>
